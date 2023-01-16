@@ -1,0 +1,22 @@
+C:\Users\Jelena\source\repos\HotelApp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Jelena\source\repos\HotelApp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Jelena\source\repos\HotelApp\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Jelena\source\repos\HotelApp\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Jelena\source\repos\HotelApp\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Jelena\source\repos\HotelApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\source\repos\HotelApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Jelena\source\repos\HotelApp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Jelena\source\repos\HotelApp\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Jelena\source\repos\HotelApp\BusinessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Jelena\source\repos\HotelApp\BusinessLayer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\BusinessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\BusinessLayer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\BusinessLayer\obj\Debug\BusinessLayer.pdb

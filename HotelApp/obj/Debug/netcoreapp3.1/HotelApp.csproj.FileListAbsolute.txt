@@ -1,0 +1,59 @@
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.exe
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.deps.json
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.runtimeconfig.json
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.runtimeconfig.dev.json
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.dll
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.pdb
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csprojAssemblyReference.cache
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.Form1.resources
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.Form2.resources
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.Properties.Resources.resources
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.GenerateResource.cache
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.AssemblyInfoInputs.cache
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.AssemblyInfo.cs
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.CopyComplete
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.dll
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.pdb
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.genruntimeconfig.cache
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\source\repos\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.Form3.resources
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.exe
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.deps.json
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.runtimeconfig.json
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.runtimeconfig.dev.json
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.pdb
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.AssemblyReference.cache
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.Form1.resources
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.Form2.resources
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.Form3.resources
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.Properties.Resources.resources
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.GenerateResource.cache
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.AssemblyInfoInputs.cache
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.AssemblyInfo.cs
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.CopyComplete
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.pdb
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.genruntimeconfig.cache

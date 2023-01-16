@@ -1,0 +1,18 @@
+C:\Users\Jelena\source\repos\HotelApp\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Jelena\source\repos\HotelApp\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Jelena\source\repos\HotelApp\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Jelena\source\repos\HotelApp\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\source\repos\HotelApp\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Jelena\source\repos\HotelApp\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Jelena\source\repos\HotelApp\DataLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Jelena\source\repos\HotelApp\DataLayer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Jelena\source\repos\HotelApp\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\DataLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\DataLayer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Milos\Desktop\IV-FTN\Softversko inžinjerstvo\HotelApp\HotelApp\DataLayer\obj\Debug\DataLayer.pdb
